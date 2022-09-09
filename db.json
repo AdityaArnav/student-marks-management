@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "name": "Aditya",
+      "email": "aditya@gmail.com",
+      "subject": "Geo",
+      "marks": 78,
+      "id": 1
+    },
+    {
+      "name": "Adi",
+      "email": "adi@orkut.com",
+      "subject": "Maths",
+      "marks": 55,
+      "id": 2
+    },
+    {
+      "name": "Arnav",
+      "email": "arnav@yahoo.com",
+      "subject": "pol",
+      "marks": 87,
+      "id": 3
+    },
+    {
+      "name": "Adi Arnav",
+      "email": "adiarnav@masai.com",
+      "subject": "History",
+      "marks": 97,
+      "id": 4
+    },
+    {
+      "name": "Aditya Arnav",
+      "email": "arnavmania@gmail.com",
+      "subject": "chem",
+      "marks": 98,
+      "id": 5
+    },
+    {
+      "name": "Arnav Aditya",
+      "email": "adityaarnav@gmail.com",
+      "subject": "computer science",
+      "marks": 99,
+      "id": 6
+    },
+    {
+      "name": "Arnav Adi",
+      "email": "arnavadi@outlook.com",
+      "subject": "Eng",
+      "marks": 83,
+      "id": 7
+    },
+    {
+      "name": "shibu",
+      "email": "shibu@gmail.com",
+      "subject": "biology",
+      "marks": "100",
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "subject": "urdu",
+      "marks": "69",
+      "id": 9
+    },
+    {
+      "name": "Sachin smp",
+      "email": "sachin@orkut.com",
+      "subject": "interview",
+      "marks": "23",
+      "id": 10
+    },
+    {
+      "name": "Rahul",
+      "email": "rahulbenakatti@masaischool.com",
+      "subject": "interview",
+      "marks": "87",
+      "id": 11
+    },
+    {
+      "name": "Sachin",
+      "email": "smp@gmail.com",
+      "subject": "kannda",
+      "marks": "67",
+      "id": 12
+    },
+    {
+      "name": "Rahul kumar",
+      "email": "rajarani@gmail.com",
+      "subject": "drawing",
+      "marks": "35",
+      "id": 13
+    }
+  ]
+}
